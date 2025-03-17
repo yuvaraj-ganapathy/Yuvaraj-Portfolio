@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    /* background-image: radial-gradient(circle at center center, rgb(71, 71, 71),rgb(8, 8, 8)); */
+    background-image: repeating-linear-gradient(0deg, rgb(17, 17, 17) 0px, rgb(17, 17, 17) 1px,transparent 1px, transparent 51px),repeating-linear-gradient(90deg, rgb(17, 17, 17) 0px, rgb(17, 17, 17) 1px,transparent 1px, transparent 51px),linear-gradient(90deg, hsl(49,0%,3%),hsl(49,0%,3%));
+}
